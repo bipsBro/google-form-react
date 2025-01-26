@@ -1,0 +1,44 @@
+{
+  "name": "google-form-react",
+  "version": "1.0.0",
+  "description": "Customize UI of google form. Integrate Google Form with your website with ease.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"test pass\"",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bipsBro/google-form-react.git"
+  },
+  "keywords": [
+    "google",
+    "form",
+    "react",
+    "google",
+    "form",
+    "google",
+    "form",
+    "ui",
+    "custome",
+    "form."
+  ],
+  "author": "bipsBro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bipsBro/google-form-react/issues"
+  },
+  "homepage": "https://github.com/bipsBro/google-form-react#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
