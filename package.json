@@ -31,7 +31,7 @@
     "form."
   ],
   "author": "bipsBro",
-  "license": "ISC",
+  "license": "GPL-2.0-or-later",
   "bugs": {
     "url": "https://github.com/bipsBro/google-form-react/issues"
   },
